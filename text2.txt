@@ -1,2 +1,3 @@
 创建了text2.txt
 liu已经修改了text2.txt内容
+刚好修改了A
